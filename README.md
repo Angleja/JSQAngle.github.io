@@ -13,8 +13,18 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 [人邮教育社区](http://www.ryjiaoyu.com/)
 [华信](https://www.hxedu.com.cn/)
 [异步社区](https://www.epubit.com/)
+### 网站建立
+[HTML5 site templates](https://html5up.net/)
 ### 其他
 [发票检验](https://inv-veri.chinatax.gov.cn/)
+[NASA](https://www.nasa.gov/)
+[《环球科学》](https://www.huanqiukexue.com/)
+[领研网](https://www.linkresearcher.com/)
+[IDC](https://www.idc.com/)
+### Python
+[NumPy 中文](https://www.numpy.org.cn/)
+[TensorFlow中文社区](http://www.tensorfly.cn/)
+[TensorFlow](https://tensorflow.google.cn/)
 
 ```markdown
 Syntax highlighted code block
