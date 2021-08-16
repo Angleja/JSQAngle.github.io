@@ -2,8 +2,6 @@
 
  [editor on GitHub](https://github.com/Angleja/JSQAngle.github.io/edit/main/README.md) 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
 ### Markdown
 
 
@@ -33,6 +31,13 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 [《环球科学》](https://www.huanqiukexue.com/)
 [领研网](https://www.linkresearcher.com/)
 [中科院植物研究所](http://www.ibcas.ac.cn/)
+[中文马克思主义文库](www.marxists.org/chinese/index.html)
+[WWF](https://www.worldwildlife.org/)
+[Serengeti](https://www.serengeti.com/)
+[南京文化旅游](https://www.gonanjingchina.com/)
+[IMDB](https://www.imdb.com/)
+[美剧粉](www.mjf2020.com)
+[中国行业发展报告](http://report.cei.cn/index.html)
 ### 媒体
 [China Daily](https://www.chinadaily.com.cn/china/)
 [CGTN](https://www.cgtn.com/)
@@ -41,6 +46,9 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 [路透社](http://www.mryzx.com/)
 [俄罗斯卫星通讯社](http://sputniknews.cn/)
 [美联社](https://www.ap.org/en-gb/)
+[纽约时报](https://www.nytimes.com/)
+[经济学人](https://www.economist.com/)
+
 ### 购物
 [Amazon](https://www.amazon.com/ref=nav_logo)
 [Ebay](https://www.ebay.com/)
@@ -51,6 +59,16 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### 工具
 [谷歌地球](https://www.google.com/earth/)
 [Zotero](https://www.zotero.org/)
+[英联微波Microstrip Calculator](https://www.ainfoinc.cn/t-calculator-microstrip)
+[在线录屏幕](https://www.apowersoft.cn/free-online-screen-recorder)
+[Magi](https://magi.com/)
+[VirusTotal](https://www.virustotal.com/gui/home/upload)
+[世界时间](https://24timezones.com/#/map)
+[Smith Chart](https://www.will-kelsey.com/smith_chart/)
+[EMtalk](http://www.emtalk.com/index.htm)
+[哔哩哔哩 Download](https://www.videotosave.com/bilibili-video-downloader/)
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
 ```markdown
 Syntax highlighted code block
 
