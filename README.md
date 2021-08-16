@@ -18,14 +18,39 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### 其他
 [发票检验](https://inv-veri.chinatax.gov.cn/)
 [NASA](https://www.nasa.gov/)
-[《环球科学》](https://www.huanqiukexue.com/)
-[领研网](https://www.linkresearcher.com/)
+[MSDN I tell you](http://msdn.itellyou.cn/)
 [IDC](https://www.idc.com/)
+[搜索](https://duckduckgo.com/?natb=v277-6ud&cp=atbhc)
 ### Python
 [NumPy 中文](https://www.numpy.org.cn/)
 [TensorFlow中文社区](http://www.tensorfly.cn/)
 [TensorFlow](https://tensorflow.google.cn/)
-
+### 文化
+[名著](http://www.sdmzh.com.cn/)
+[中国国家地理](http://www.dili360.com/)
+[中国国家地理-博物](http://www.dili360.com/nh)
+[ScientificAmerican](https://www.scientificamerican.com/)
+[《环球科学》](https://www.huanqiukexue.com/)
+[领研网](https://www.linkresearcher.com/)
+[中科院植物研究所](http://www.ibcas.ac.cn/)
+### 媒体
+[China Daily](https://www.chinadaily.com.cn/china/)
+[CGTN](https://www.cgtn.com/)
+[参考消息](http://world.cankaoxiaoxi.com/)
+[法新社](https://www.afp.com/)
+[路透社](http://www.mryzx.com/)
+[俄罗斯卫星通讯社](http://sputniknews.cn/)
+[美联社](https://www.ap.org/en-gb/)
+### 购物
+[Amazon](https://www.amazon.com/ref=nav_logo)
+[Ebay](https://www.ebay.com/)
+[贸泽电子](http://www.mouser.cn)
+[京东](www.jd.com)
+[淘宝](www.taobao.com)
+[当当](http://www.dangdang.com/)
+### 工具
+[谷歌地球](https://www.google.com/earth/)
+[Zotero](https://www.zotero.org/)
 ```markdown
 Syntax highlighted code block
 
