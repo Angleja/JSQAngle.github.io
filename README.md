@@ -5,7 +5,7 @@
 ### Markdown
 
 
-## 最近
+## Currently 
 [国家中小学网络云平台](https://ykt.eduyun.cn/)
 [英语语法网](http://www.yygrammar.com/)
 [新东方题库](www.koolearn.com/shiti)
@@ -32,7 +32,7 @@
 [中国科学](https://www.scichina.com/)
 [中国社会科学](http://sscp.cssn.cn/)
 [光明网](https://www.gmw.cn/)
-### 射频微波
+### RF & Microwave 
 [APS](https://www.ieeeaps.org/)
 [IEEE ComSoc](https://www.comsoc.org/)
 [JPL](https://www.jpl.nasa.gov/)
@@ -66,12 +66,12 @@
 **[Ali M. Niknejad](http://rfic.eecs.berkeley.edu/~niknejad/)**
 **[SMIrC Lab ](http://www-smirc.stanford.edu/people.html)**
 **[Behzad Razavi](http://www.seas.ucla.edu/brweb/)**
-### 出版社
+### Publication
 [Oxford University Press](http://global.oup.com/?cc=cn#)
 [人邮教育社区](http://www.ryjiaoyu.com/)
 [华信](https://www.hxedu.com.cn/)
 [异步社区](https://www.epubit.com/)
-### 网站建立
+### Website Tool
 [HTML5 site templates](https://html5up.net/)
 [Emmet](https://emmet.io/)
 [Markdown Help](https://markdown-zh.readthedocs.io/en/latest/)
@@ -82,7 +82,7 @@
 []()
 []()
 []()
-### 其他
+### Other
 [发票检验](https://inv-veri.chinatax.gov.cn/)
 [NASA](https://www.nasa.gov/)
 [MSDN I tell you](http://msdn.itellyou.cn/)
@@ -97,7 +97,7 @@
 [NumPy 中文](https://www.numpy.org.cn/)
 [TensorFlow中文社区](http://www.tensorfly.cn/)
 [TensorFlow](https://tensorflow.google.cn/)
-### 文化
+### Culture
 [名著](http://www.sdmzh.com.cn/)
 [中国国家地理](http://www.dili360.com/)
 [中国国家地理-博物](http://www.dili360.com/nh)
@@ -113,7 +113,7 @@
 [美剧粉](www.mjf2020.com)
 [中国行业发展报告](http://report.cei.cn/index.html)
 [黄帝内经](https://gitee.com/songjinghe/hall-of-light)
-### 媒体
+### Media
 [China Daily](https://www.chinadaily.com.cn/china/)
 [CGTN](https://www.cgtn.com/)
 [参考消息](http://world.cankaoxiaoxi.com/)
@@ -128,7 +128,7 @@
 [求是网](http://www.qstheory.cn/)
 [国务院新闻办公室](http://www.scio.gov.cn/index.htm)
 [央广网](http://www.cnr.cn/)
-### 组织机构
+### Organization & Institution
 [中国政府网](http://www.gov.cn/)
 [大竹县政府](http://www.dazhu.gov.cn/)
 [四川省政府](https://www.sc.gov.cn/)
@@ -143,14 +143,14 @@
 [联合国](https://www.un.org/zh/)
 [世界银行](https://www.worldbank.org/)
 
-### 购物
+### Purchase
 [Amazon](https://www.amazon.com/ref=nav_logo)
 [Ebay](https://www.ebay.com/)
 [贸泽电子](http://www.mouser.cn)
 [京东](www.jd.com)
 [淘宝](www.taobao.com)
 [当当](http://www.dangdang.com/)
-### 社区
+### Social Network
 [优酷](https://www.youku.com/)
 [Quora](https://www.quora.com/)
 [贴吧](https://tieba.baidu.com/index.html)
@@ -163,7 +163,7 @@
 [Epic](https://www.epicgames.com/store/zh-Hant/)
 [WeGame](https://www.wegame.com.cn/)
 
-### 工具
+### Tools
 [谷歌地球](https://www.google.com/earth/)
 [Zotero](https://www.zotero.org/)
 [Citavi](https://www.softhead-citavi.com/)
