@@ -144,6 +144,7 @@
 [下载杂志](https://ch.downmagaz.net/)
 [magzDB](http://magzdb.org/)
 [志趣杂志](https://www.zazhipdf.com/)
+[ML](https://magazinelib.com/)
 [马克思主义文库](https://www.marxists.org/chinese/index.html)
 
 [我们的数据世界](https://ourworldindata.org/)
@@ -152,6 +153,18 @@
 [国会图书馆](https://www.loc.gov/)
 ### English
 [Aboboo](http://www.aboboo.com/g/#/home)
+[多邻国](http://www.duolingo.cn/)
+[口语伙伴](http://calis.isayb.com./?z=download#)
+[English Learn](https://www.englishforums.com/blog/)
+[iLearn](https://whut.ilearningpro.unipus.cn/)
+[田间小站](https://www.tianfateng.cn/)
+[Oxford](https://www.oxfordlearnersdictionaries.com/)
+[Cambridge](https://dictionary.cambridge.org/)
+[Macmillan](https://www.macmillandictionary.com/)
+[Longman Dictionary](https://www.ldoceonline.com/)
+[Vocabulary](https://www.vocabulary.com/)
+[Merriam](https://www.merriam-webster.com/)
+[Wordnik](https://www.wordnik.com/)
 ### Biological
 [四川植物](http://www.cfh.ac.cn/subsite/default.aspx?siteid=sichuanplants)
 [中国自然标本馆](http://www.cfh.ac.cn/subsite/default.aspx?siteid=sichuanplants)
@@ -216,7 +229,7 @@
 [世界卫生组织](https://www.who.int/zh)
 [联合国](https://www.un.org/zh/)
 [世界银行](https://www.worldbank.org/)
-
+[教育部考试中心](http://chaxun.neea.edu.cn/examcenter/main.jsp)
 ### Purchase
 [Amazon](https://www.amazon.com/ref=nav_logo)
 [Ebay](https://www.ebay.com/)
