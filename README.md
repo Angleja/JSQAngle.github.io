@@ -27,6 +27,27 @@
 [Bing](https://www.bing.com/)
 [百度学术](http://xueshu.baidu.com/)
 [国家科技图书文献中心](https://www.nstl.gov.cn/)
+[中国国家图书馆](http://www.nlc.cn/)
+[全国图书馆参考咨询联盟](http://www.ucdrs.superlib.net/)
+[知网](https://www.cnki.net/)
+[知网学位论文](https://kns.cnki.net/kns8?dbcode=CDMD)
+[国外学位论文](http://www.pqdtcn.com/)
+[国家标准](http://openstd.samr.gov.cn/bzgk/gb/index)
+[万方标准数据库](https://g.wanfangdata.com.cn/index.html)
+[IEEE-SA](https://standards.ieee.org/standard/)
+[ISO](https://www.iso.org/home.html)
+
+[Library Genesis-1](http://libgen.li/)
+[Library Genesis-2](https://libgen.is/)
+[Library Genesis 图书馆创世纪 – 中文](https://librarygenesis.net/zh/)
+[搬书匠](http://www.banshujiang.cn/)
+[BookFind](https://www.bookfinder.com/)
+[大学数字馆际合作](https://cadal.edu.cn/index/home#page1)
+[科学文库](http://book.sciencereading.cn/shop/main/Login/shopFrame.do)
+[Google Book](https://books.google.com/)
+[ISBN Search](https://isbnsearch.org/)
+[图灵社区](https://www.ituring.com.cn/)
+[鸠摩搜书](https://www.jiumodiary.com/)
 
 [新华文摘](http://www.xinhuawz.com/)
 [中国科学](https://www.scichina.com/)
@@ -37,6 +58,7 @@
 [IEEE ComSoc](https://www.comsoc.org/)
 [JPL](https://www.jpl.nasa.gov/)
 [URSI](http://www.crac.org.cn/)
+[AESS](http://ieee-aess.org/)
 [中国电子学会](https://www.cie-info.org.cn/)
 [微波学报](http://www.mwjournal.org/wbxb/ch/index.aspx)
 [IMT2020](http://www.mwjournal.org/wbxb/ch/index.aspx)
@@ -113,6 +135,58 @@
 [美剧粉](www.mjf2020.com)
 [中国行业发展报告](http://report.cei.cn/index.html)
 [黄帝内经](https://gitee.com/songjinghe/hall-of-light)
+
+[八点一刻](https://www.badianyike.com/)
+[PDF5](https://www.pdf5.net/)
+[PDF之家](http://pdfzj.cn/)
+[脚本之家](https://www.jb51.net/books/)
+[杂志旗](https://zazhi7.com/)
+[下载杂志](https://ch.downmagaz.net/)
+[magzDB](http://magzdb.org/)
+[志趣杂志](https://www.zazhipdf.com/)
+[马克思主义文库](https://www.marxists.org/chinese/index.html)
+
+[我们的数据世界](https://ourworldindata.org/)
+[世界银行](https://data.worldbank.org/)
+[USEUM](https://useum.org/)
+[国会图书馆](https://www.loc.gov/)
+### English
+[Aboboo](http://www.aboboo.com/g/#/home)
+### Biological
+[四川植物](http://www.cfh.ac.cn/subsite/default.aspx?siteid=sichuanplants)
+[中国自然标本馆](http://www.cfh.ac.cn/subsite/default.aspx?siteid=sichuanplants)
+[中国数字科技馆](https://www.cdstm.cn/)
+[科学数据库-动物](http://www.zoology.csdb.cn/)
+[iPlant-植物志](http://www.iplant.cn/)
+[中国生物物种名录](http://www.iplant.cn/)
+[中国生物志库](http://www.iplant.cn/)
+[Catalogue of Life](http://www.catalogueoflife.org/content/contributors)
+### Geography
+[国家标准地图服务](http://bzdt.ch.mnr.gov.cn/)
+[全历史](https://www.allhistory.com/)
+[Old Maps Online](https://www.oldmapsonline.org/)
+[地图书](https://www.ditushu.com/)
+[地图窝](http://www.onegreen.net/)
+[方舆](http://xzqh.info/lt/thread.php?fid=24)
+[数位方舆](https://digitalatlas.asdc.sinica.edu.tw/)
+[观沧海](https://www.ageeye.cn/)
+[天地图](https://www.tianditu.gov.cn/)
+[中国天气网](http://www.weather.com.cn/satellite/)
+[自然资源遥感](http://www.sasclouds.com/chinese/normal/)
+[美国地图](https://www.usgs.gov/core-science-systems/national-geospatial-program/national-map)
+[OSGeo中国中心](https://www.osgeo.cn/)
+[David Rumsey Historical Map Collection](https://www.davidrumsey.com/)
+### Chinese
+[万方方志](http://fz.wanfangdata.com.cn/index.do)
+[中华诗词库](http://whut.xcz.im/library)
+[诗词](https://www.cxcwzhsc.com/)
+[字源](https://hanziyuan.net/#%E8%BD%A6)
+[汉典](https://www.zdic.net/)
+[知妖](http://www.cbaigui.com/)
+[中华珍宝](http://www.ltfc.net/)
+[中国音网](http://www.china1901.com/lcp/src/index/index.html)
+[书格](https://www.shuge.org/)
+[中华思想文化术语库](http://shuyuku.chinesethought.cn/)
 ### Media
 [China Daily](https://www.chinadaily.com.cn/china/)
 [CGTN](https://www.cgtn.com/)
@@ -195,23 +269,7 @@
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 ### Jekyll Themes
 
