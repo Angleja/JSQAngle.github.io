@@ -33,6 +33,8 @@
 [万方标准数据库](https://g.wanfangdata.com.cn/index.html)
 [IEEE-SA](https://standards.ieee.org/standard/)
 [ISO](https://www.iso.org/home.html)
+[Sci-Hub](http://scholar.hedasudi.com/scihub.html)
+
 
 [Library Genesis-1](http://libgen.li/)
 [Library Genesis-2](https://libgen.is/)
@@ -145,8 +147,6 @@
 [WWF](https://www.worldwildlife.org/)
 [Serengeti](https://www.serengeti.com/)
 [南京文化旅游](https://www.gonanjingchina.com/)
-[IMDB](https://www.imdb.com/)
-[美剧粉](www.mjf2020.com)
 [中国行业发展报告](http://report.cei.cn/index.html)
 [黄帝内经](https://gitee.com/songjinghe/hall-of-light)
 
@@ -165,6 +165,15 @@
 [世界银行](https://data.worldbank.org/)
 [USEUM](https://useum.org/)
 [国会图书馆](https://www.loc.gov/)
+### OpenCourse
+[Ted](https://www.ted.com/)
+[开放教育联盟](https://www.oeconsortium.org/)
+[edX](https://www.edx.org/)
+[Coursera](https://zh.coursera.org/)
+[MOOC中国](https://www.mooc.cn/)
+[UMOOC](http://moocs.unipus.cn/)
+[中国大学生慕课](http://www.icourse163.org/)
+
 ### English
 [Aboboo](http://www.aboboo.com/g/#/home)
 [多邻国](http://www.duolingo.cn/)
@@ -266,7 +275,12 @@
 [Steam](https://store.steampowered.com/)
 [Epic](https://www.epicgames.com/store/zh-Hant/)
 [WeGame](https://www.wegame.com.cn/)
-
+[Bilibili](http://www.bilibili.com/)
+[知乎](https://www.douban.com/)
+[微博](https://weibo.com/)
+[IMDB](https://www.imdb.com/)
+[美剧粉](www.mjf2020.com)
+[豆瓣](https://www.douban.com/)
 ### Tools
 [谷歌地球](https://www.google.com/earth/)
 [Zotero](https://www.zotero.org/)
